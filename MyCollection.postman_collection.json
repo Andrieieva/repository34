@@ -68,27 +68,6 @@
 				}
 			},
 			"response": []
-		},
-		{
-			"name": "https://github.com/public-apis/public-apis#vehicle",
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "https://github.com/public-apis/public-apis#vehicle",
-					"protocol": "https",
-					"host": [
-						"github",
-						"com"
-					],
-					"path": [
-						"public-apis",
-						"public-apis"
-					],
-					"hash": "vehicle"
-				}
-			},
-			"response": []
 		}
 	]
 }

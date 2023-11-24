@@ -27,26 +27,6 @@
 			"response": []
 		},
 		{
-			"name": "https://developer.mercedes-benz.com/products",
-			"request": {
-				"method": "POST",
-				"header": [],
-				"url": {
-					"raw": "https://developer.mercedes-benz.com/products",
-					"protocol": "https",
-					"host": [
-						"developer",
-						"mercedes-benz",
-						"com"
-					],
-					"path": [
-						"products"
-					]
-				}
-			},
-			"response": []
-		},
-		{
 			"name": "https://smartcar.com/docs/",
 			"request": {
 				"method": "GET",
@@ -61,6 +41,26 @@
 					"path": [
 						"docs",
 						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://developer.mercedes-benz.com/apis",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://developer.mercedes-benz.com/apis",
+					"protocol": "https",
+					"host": [
+						"developer",
+						"mercedes-benz",
+						"com"
+					],
+					"path": [
+						"apis"
 					]
 				}
 			},

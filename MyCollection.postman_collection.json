@@ -1,0 +1,94 @@
+{
+	"info": {
+		"_postman_id": "795e71eb-1523-47da-bd98-3d8e9ce60f13",
+		"name": "MyCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31363928"
+	},
+	"item": [
+		{
+			"name": "https://github.com/public-apis/public-apis#blockchain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/public-apis/public-apis#blockchain",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"public-apis",
+						"public-apis"
+					],
+					"hash": "blockchain"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://github.com/public-apis/public-apis#cryptocurrency",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/public-apis/public-apis#cryptocurrency",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"public-apis",
+						"public-apis"
+					],
+					"hash": "cryptocurrency"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://github.com/public-apis/public-apis#currency-exchange",
+			"request": {
+				"method": "HTTP",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/public-apis/public-apis#currency-exchange",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"public-apis",
+						"public-apis"
+					],
+					"hash": "currency-exchange"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://github.com/public-apis/public-apis#vehicle",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://github.com/public-apis/public-apis#vehicle",
+					"protocol": "https",
+					"host": [
+						"github",
+						"com"
+					],
+					"path": [
+						"public-apis",
+						"public-apis"
+					],
+					"hash": "vehicle"
+				}
+			},
+			"response": []
+		}
+	]
+}

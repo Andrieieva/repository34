@@ -1,70 +1,67 @@
 {
 	"info": {
-		"_postman_id": "795e71eb-1523-47da-bd98-3d8e9ce60f13",
-		"name": "MyCollection",
+		"_postman_id": "57045557-5562-48ea-aa41-5cf88faaeba3",
+		"name": "MyCollection01",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "31363928"
 	},
 	"item": [
 		{
-			"name": "https://github.com/public-apis/public-apis#blockchain",
+			"name": "https://developer.mercedes-benz.com/products",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://github.com/public-apis/public-apis#blockchain",
+					"raw": "https://developer.mercedes-benz.com/products",
 					"protocol": "https",
 					"host": [
-						"github",
+						"developer",
+						"mercedes-benz",
 						"com"
 					],
 					"path": [
-						"public-apis",
-						"public-apis"
-					],
-					"hash": "blockchain"
+						"products"
+					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "https://github.com/public-apis/public-apis#cryptocurrency",
+			"name": "https://developer.mercedes-benz.com/products",
 			"request": {
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "https://github.com/public-apis/public-apis#cryptocurrency",
+					"raw": "https://developer.mercedes-benz.com/products",
 					"protocol": "https",
 					"host": [
-						"github",
+						"developer",
+						"mercedes-benz",
 						"com"
 					],
 					"path": [
-						"public-apis",
-						"public-apis"
-					],
-					"hash": "cryptocurrency"
+						"products"
+					]
 				}
 			},
 			"response": []
 		},
 		{
-			"name": "https://github.com/public-apis/public-apis#currency-exchange",
+			"name": "https://smartcar.com/docs/",
 			"request": {
-				"method": "HTTP",
+				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://github.com/public-apis/public-apis#currency-exchange",
+					"raw": "https://smartcar.com/docs/",
 					"protocol": "https",
 					"host": [
-						"github",
+						"smartcar",
 						"com"
 					],
 					"path": [
-						"public-apis",
-						"public-apis"
-					],
-					"hash": "currency-exchange"
+						"docs",
+						""
+					]
 				}
 			},
 			"response": []
